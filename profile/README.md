@@ -1,4 +1,3 @@
-```markdown
 # Welcome to Sync Core! 👋
 
 ## About Sync Core
@@ -28,4 +27,4 @@ We're always looking to collaborate on projects and innovative solutions. If you
 ---
 
 💡 **Innovating solutions. Enhancing business efficiency. Building the future.** 💡
-```
+
