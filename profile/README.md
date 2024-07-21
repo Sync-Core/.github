@@ -21,11 +21,16 @@ We are proud contributors to the open-source community, offering a range of NPM 
 
 ## Get in Touch
 
+- **Email**: [info@synccore.in](mailto:info@synccore.in)
 - **GitHub**: [Sync Core](https://github.com/Sync-Core)
 - **WebSite**: [synccore.in](https://synccore.in/)
 
-We're always looking to collaborate on projects and innovative solutions. If you have any questions or proposals, please don't hesitate to contact us!
+## Follow Us
 
+Stay updated with our latest developments and offerings by following us on social media:
+
+- **LinkedIn**: [Sync Core on LinkedIn](https://www.linkedin.com/company/sync-core)
+- **Facebook**: [Sync Core on Facebook](https://www.facebook.com/people/Sync-Core/61561941314201/)
 ---
 
 💡 **Innovating solutions. Enhancing business efficiency. Building the future.** 💡
