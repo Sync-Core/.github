@@ -22,7 +22,7 @@ We are proud contributors to the open-source community, offering a range of NPM 
 ## Get in Touch
 
 - **GitHub**: [Sync Core](https://github.com/Sync-Core)
-- **WebSite**: [Sync Core](https://synccore.in/)
+- **WebSite**: [synccore.in](https://synccore.in/)
 
 We're always looking to collaborate on projects and innovative solutions. If you have any questions or proposals, please don't hesitate to contact us!
 
