@@ -11,6 +11,7 @@ At Sync Core, we're dedicated to innovating web applications, providing robust E
 - **Sync Core CRM**: Enhance your customer relationships with our versatile CRM software.
 - **Sync Core HRM**: Manage your human resources with greater ease and efficiency through our HRM system.
 - **Sync Core SMS**: Efficiently manage your school through our comprehensive School Management System.
+- **Sync Core EM**: Plan, organize, and manage your events seamlessly with our intuitive Event Management solution.
 
 ## Our NPM Libraries
 
