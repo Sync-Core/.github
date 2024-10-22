@@ -8,6 +8,7 @@ At Sync Core, we're dedicated to innovating web applications, providing robust E
 
 - **Web Applications**: We build custom web applications tailored to the unique requirements of your business.
 - **Sync Core ERP**: Streamline your business operations with our comprehensive ERP solutions.
+- **Sync Core POS**: Simplify your retail and sales processes with our reliable Point of Sale system.
 - **Sync Core CRM**: Enhance your customer relationships with our versatile CRM software.
 - **Sync Core HRM**: Manage your human resources with greater ease and efficiency through our HRM system.
 - **Sync Core SMS**: Efficiently manage your school through our comprehensive School Management System.
